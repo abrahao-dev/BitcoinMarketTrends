@@ -36,4 +36,4 @@ Os dados utilizados neste projeto são provenientes de [https://www.kaggle.com/d
 Sinta-se à vontade para contribuir com o projeto! Se você tiver melhorias ou ideias para aprimorar a análise, abra uma *pull request*.
 
 ## Licença
-Este projeto está licenciado sob a [MIT] - consulte o arquivo LICENSE para mais informações.
+Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](./LICENSE) para mais informações.
