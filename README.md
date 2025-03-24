@@ -1,39 +1,39 @@
-# Análise de Padrões no Mercado de Bitcoin
+# Bitcoin Market Pattern Analysis
 
-Este projeto tem como objetivo analisar os dados históricos de preços e volume do Bitcoin, utilizando técnicas de análise de padrões e clustering para identificar tendências e padrões recorrentes no comportamento do mercado.
+This project aims to analyze historical Bitcoin price and volume data, using pattern analysis and clustering techniques to identify trends and recurring patterns in market behavior.
 
-## Funcionalidades
-- **Carregamento de dados**: Importação de dados históricos de preços e volume do Bitcoin.
-- **Visualização**: Gráficos de preços e volume para análise inicial.
-- **Análise de padrões**: Uso de algoritmos de clustering (K-Means, DBSCAN) para identificar padrões no mercado.
-- **Insights**: Geração de insights para prever possíveis aumentos ou quedas no preço do Bitcoin com base nos padrões identificados.
+## Features
+- **Data Loading**: Import historical Bitcoin price and volume data.
+- **Visualization**: Price and volume charts for initial analysis.
+- **Pattern Analysis**: Use clustering algorithms (K-Means, DBSCAN) to identify patterns in the market.
+- **Insights**: Generate insights to predict potential rises or falls in the Bitcoin price based on the identified patterns.
 
-## Tecnologias Utilizadas
+## Technologies Used
 - Python
 - Pandas
 - Matplotlib, Seaborn
 - Scikit-learn
 
-## Como Executar o Projeto
+## How to Run the Project
 
-1. Clone o repositório para sua máquina local:
-   ```bash
-   git clone <URL_do_repositório>
-   ```
+1. Clone the repository to your local machine:
+```bash
+git clone <repository_URL>
+```
 
-2. Instale as dependências:
-   ```bash
-   pip install -r requirements.txt
-   ```
+2. Install the dependencies:
+```bash
+pip install -r requirements.txt
+```
 
-3. Execute o notebook `.ipynb`:
-   - Abra o arquivo `bitcoin_pattern_analysis.ipynb` (ou o nome que você escolher) no Jupyter Notebook ou Google Colab.
+3. Run the `.ipynb` notebook:
+- Open the `bitcoin_pattern_analysis.ipynb` file (or whatever name you choose) in Jupyter Notebook or Google Colab.
 
-## Dados Utilizados
-Os dados utilizados neste projeto são provenientes de [https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data]. Esses dados incluem informações históricas de preços e volume de negociação do Bitcoin.
+## Data Used
+The data used in this project comes from [https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data]. This data includes historical Bitcoin price and trading volume information.
 
-## Contribuição
-Sinta-se à vontade para contribuir com o projeto! Se você tiver melhorias ou ideias para aprimorar a análise, abra uma *pull request*.
+## Contribution
+Feel free to contribute to the project! If you have any improvements or ideas to improve the analysis, please open a *pull request*.
 
-## Licença
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](./LICENSE) para mais informações.
+## License
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for more information.
